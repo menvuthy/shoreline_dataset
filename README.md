@@ -1,35 +1,27 @@
-[![CC BY 4.0][cc-by-shield]][cc-by] [![DOI](https://img.shields.io/badge/DOI-https://doi.org/10.3390/su142316254-blue.svg)](https://doi.org/10.3390/su142316254)
+[![CC BY 4.0][cc-by-shield]][cc-by] [![DOI](https://img.shields.io/badge/DOI-Link-blue.svg)](https://doi.org/10.3390/su142316254)
 
 
-## Prolonged and Severe Drought in the Most Dammed Tributaries of the Lower Mekong Basin
-
-*Kimsan Chann, Ty Sok, Romduol Khoeun, Vuthy Men, Supattra Visessri, Chantha Oeurng, Ratha Sor and Sarah E. Null*
+## Clustering-based Method for Automatic Shoreline Extraction from Landsat and Sentinel-2 Satellite Imagery: A Case Study in South Maldives
 
 
-Sustainability 2022, 14(23), 16254; https://doi.org/10.3390/su142316254
-
-Received: 13 September 2022 / Revised: 18 November 2022 / Accepted: 28 November 2022 / Published: 6 December 2022
-
-(This article belongs to the Special Issue Advances in Aquatic Ecology for Sustainability: Priorities, Approaches, and Partnerships for Management and Conservation of Freshwaters)
-
-**Abstract:** Drought is a natural hazard that stresses ecosystems, agricultural production, food security,
-and local economies. Given ongoing hydropower dam development in the Sesan and Srepok Basins,
-the two most dammed tributaries in the Lower Mekong Basin, characterizing baseline drought events
-and understanding how dams modify downstream flow is needed to manage water resources and
-mitigate drought effects. We used the Soil &Water Assessment Tool (SWAT) to estimate streamflow
-data from 2001 to 2019. For both rivers, we found that runoff varied, but contributed about 75% of
-streamflow, followed by shallow and deep groundwater, which contributed up to 25%. We used the
-Standardized Runoff Index to characterize drought and detected frequent, severe, and prolonged
-drought events in the two basins. Severe and prolonged droughts in the 2009–2011 and 2015–2016
-periods corresponded to the occurrence of Typhoon Ketsana and the El Niño-Southern Oscillation.
-Streamflow alteration can be caused by climatic conditions and anthropogenic activities such as
-hydropower dam development and operations (e.g., the timing and magnitude of water releases).
-Results from this study can be used as a baseline to gauge potential future droughts and design
-appropriate drought management plans to preserve ecosystems and food security in the Lower
-Mekong Basin and its tributaries.
+*Vuthy Men<sup>1</sup>, Shingo Ichikawa<sup>2</sup>, Shogo Tokunaga<sup>2</sup>, and Susumu Onaka<sup>2</sup>*
+*<sup>1</sup> Water Resources and Energy Department, Nippon Koei Co., Ltd., 5-4, Kojimachi, Chiyoda-ku, Tokyo 102-8539, Japan, men.vuthy@ymail.com*
+*<sup>2</sup> Coast & Port Department, Nippon Koei Co., Ltd., 5-4, Kojimachi, Chiyoda-ku, Tokyo 102-8539, Japan
 
 
-**Citation:** Chann, K.; Sok, T.; Khoeun, R.; Men, V.; Visessri, S.; Oeurng, C.; Sor, R.; Null, S.E. Prolonged and Severe Drought in the Most Dammed Tributaries of the Lower Mekong Basin. Sustainability 2022, 14, 16254. https://doi.org/10.3390/su142316254
+APAC(2023) 
+Proceedings of the --th International Conference on Asian and Pacific Coasts, 2023, Kyoto, Japan; https://doi.org/10.3390/su142316254
+
+Submitted: --- / Revised: --- / Accepted: --- / Published: ---
+
+<!-- (This article belongs to the Special Issue Advances in Aquatic Ecology for Sustainability: Priorities, Approaches, and Partnerships for Management and Conservation of Freshwaters) -->
+
+**Abstract:** For small and low-lying countries, having a thorough understanding of shore-line’s position and how it changed over the years is essential for effective coastal conservation, management, and national land protection efforts, particularly given the heightened risk of coastal hazards and sea-level rise. This study presented an automated method for extracting shorelines from open-source satellite imagery in South Maldives using unsupervised machine learning. The method involves resampling the Near-Infrared (NIR) image to improve spatial resolution, georef-erencing, and followed by applying the K-means clustering algorithm to distin-guish between land and water areas. The resulting boundary line is then corrected and georeferenced to match the actual shoreline position and transformed into a smooth line using a new modification algorithm. The accuracy of the automated method was evaluated by comparing its results to those obtained through manual extraction from high-resolution WorldView2 images in Laamu atoll. This study found that the automated method produced more accurate results from Sentinel-2 image than from Landsat image, with R-squared ranging from 0.94 to 0.95, MAE from 2.34 m and 3.24 m, MSE from 9.21 m to 19.12 m and RMSE from 3.04 m to 4.37 m. This approach offers a quick and cost-effective means of extracting shorelines from open-source satellite imagery, enabling coastal engineers and sci-entists to explore shoreline changes at a regional scale with high accuracy while saving time, money, and labor compared to manual extraction or high-cost satel-lite imagery purchases.
+
+**Keywords:** Shoreline Extraction, Sentinel-2, Landsat, K-means, Machine Learn-ing, Maldives.
+
+
+**Citation:** ---
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License][cc-by].
 
