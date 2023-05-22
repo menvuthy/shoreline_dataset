@@ -6,7 +6,7 @@
 
 *Vuthy Men<sup>1</sup>, Shingo Ichikawa<sup>2</sup>, Shogo Tokunaga<sup>2</sup>, and Susumu Onaka<sup>2</sup>*
 
-<font size="2"> *<sup>1</sup> Water Resources and Energy Department, Nippon Koei Co., Ltd., 5-4, Kojimachi, Chiyoda-ku, Tokyo 102-8539, Japan, men.vuthy@ymail.com* </font>
+<font size="1"> *<sup>1</sup> Water Resources and Energy Department, Nippon Koei Co., Ltd., 5-4, Kojimachi, Chiyoda-ku, Tokyo 102-8539, Japan, men.vuthy@ymail.com* </font>
 
 *<sup>2</sup> Coast & Port Department, Nippon Koei Co., Ltd., 5-4, Kojimachi, Chiyoda-ku, Tokyo 102-8539, Japan*
 
