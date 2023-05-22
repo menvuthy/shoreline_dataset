@@ -6,10 +6,11 @@
 
 *Vuthy Men<sup>1</sup>, Shingo Ichikawa<sup>2</sup>, Shogo Tokunaga<sup>2</sup>, and Susumu Onaka<sup>2</sup>*
 
-<span style="font-size: 200%; color: red;"> *<sup>1</sup> Water Resources and Energy Department, Nippon Koei Co., Ltd., 5-4, Kojimachi, Chiyoda-ku, Tokyo 102-8539, Japan, men.vuthy@ymail.com* </span>
+*<sup>1</sup> Water Resources and Energy Department, Nippon Koei Co., Ltd., 5-4, Kojimachi, Chiyoda-ku, Tokyo 102-8539, Japan, men.vuthy@ymail.com*
 
 *<sup>2</sup> Coast & Port Department, Nippon Koei Co., Ltd., 5-4, Kojimachi, Chiyoda-ku, Tokyo 102-8539, Japan*
 
+\n
 
 APAC(2023) 
 Proceedings of the --th International Conference on Asian and Pacific Coasts, 2023, Kyoto, Japan; https://doi.org/10.3390/su142316254
