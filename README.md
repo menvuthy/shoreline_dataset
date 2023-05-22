@@ -1,7 +1,7 @@
 [![CC BY 4.0][cc-by-shield]][cc-by] [![DOI](https://img.shields.io/badge/DOI-Link-blue.svg)](https://doi.org/10.3390/su142316254)
 
 
-## Clustering-based Method for Automatic Shoreline Extraction from Landsat and Sentinel-2 Satellite Imagery: A Case Study in South Maldives
+## Clustering-based Method for Automatic Shoreline Extraction from Landsat and Sentinel-2 Satellite Imagery in South Maldives
  
 
 *Vuthy Men<sup>1</sup>, Shingo Ichikawa<sup>2</sup>, Shogo Tokunaga<sup>2</sup>, and Susumu Onaka<sup>2</sup>*
