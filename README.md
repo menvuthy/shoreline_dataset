@@ -24,7 +24,7 @@
 
 
 <br />
-Proceedings of the --th International Conference on Asian and Pacific Coasts, 2023, Kyoto, Japan, APAC(2023)
+Proceedings of the 11<sup>th</sup> International Conference on Asian and Pacific Coasts, 2023, Kyoto, Japan, APAC(2023)
 
 Submitted: --- / Revised: --- / Accepted: --- / Published: ---
 
