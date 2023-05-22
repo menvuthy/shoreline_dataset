@@ -24,11 +24,10 @@
 
 
 <br />
-Proceedings of the --th International Conference on Asian and Pacific Coasts, 2023, Kyoto, Japan, APAC(2023) ; https://doi.org/10.3390/su142316254
+Proceedings of the --th International Conference on Asian and Pacific Coasts, 2023, Kyoto, Japan, APAC(2023)
 
 Submitted: --- / Revised: --- / Accepted: --- / Published: ---
 
-<!-- (This article belongs to the Special Issue Advances in Aquatic Ecology for Sustainability: Priorities, Approaches, and Partnerships for Management and Conservation of Freshwaters) -->
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License][cc-by].
 
