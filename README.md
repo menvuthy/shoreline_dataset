@@ -9,7 +9,7 @@
 
 *<sup> <sup>1</sup> Water Resources and Energy Department, Nippon Koei Co., Ltd., 5-4, Kojimachi, Chiyoda-ku, Tokyo 102-8539, Japan, men.vuthy@ymail.com* </sup>
 
-*<sup><sup>2</sup> Coast & Port Department, Nippon Koei Co., Ltd., 5-4, Kojimachi, Chiyoda-ku, Tokyo 102-8539, Japan*</sup> 
+*<sup><sup>2</sup> Coast and Port Department, Nippon Koei Co., Ltd., 5-4, Kojimachi, Chiyoda-ku, Tokyo 102-8539, Japan*</sup> 
 
 
 <br />
